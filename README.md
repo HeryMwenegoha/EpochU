@@ -8,10 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-1. Matlab preferrably 2017a.
-
 ```
-Give examples
+1. Matlab preferrably 2017a.
 ```
 
 ## Built With
